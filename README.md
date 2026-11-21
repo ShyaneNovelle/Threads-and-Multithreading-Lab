@@ -22,3 +22,17 @@ shared-resource management using Python.
 - Demonstrate concurrent execution.
 - Explain thread coordination.
 - Apply locks to protect shared resources.
+
+## Execution Screenshots
+
+### Task 1: Single Thread
+![Task 1 Output](screenshots/task1_output.png)
+
+### Task 2: Multiple Threads
+![Task 2 Output](screenshots/task2_output.png)
+
+### Task 3: Thread Synchronization
+![Task 3 Output](screenshots/task3_output.png)
+
+### Task 4: Thread Locks
+![Task 4 Output](screenshots/task4_output.png)
